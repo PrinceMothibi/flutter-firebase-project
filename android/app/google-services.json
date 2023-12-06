@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "908591164086",
+    "firebase_url": "https://times-for-rome-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "times-for-rome",
+    "storage_bucket": "times-for-rome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908591164086:android:9ea1206cdc05dfa800d417",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFBQiy5oTeYUwK8XSXZ7tvtjMrt3eCcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
